@@ -1,1 +1,2 @@
-console.log('Time to get started..');
+var userName = "Kim Dahyun";
+console.log(userName);
